@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/gupta_919456/CLionProjects/my-brainf-compiler/cmake-build-debug",
-		"source" : "C:/Users/gupta_919456/CLionProjects/my-brainf-compiler"
+		"build" : "C:/Users/gupta_919456/Documents/GitHub/brainf/cmake-build-debug",
+		"source" : "C:/Users/gupta_919456/Documents/GitHub/brainf"
 	},
 	"version" : 
 	{
