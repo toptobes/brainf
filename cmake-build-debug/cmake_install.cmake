@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/gupta_919456/Documents/GitHub/brainf
+# Install script for directory: C:/Users/gupta_919456/CLionProjects/my-brainf-compiler
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/gupta_919456/Documents/GitHub/brainf/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/gupta_919456/CLionProjects/my-brainf-compiler/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
