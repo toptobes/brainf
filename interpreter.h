@@ -3,7 +3,7 @@
 
 #include "stdio.h"
 
-void interpret(char *code, FILE *in, FILE *out);
 int i(char *c);
+void reset();
 
 #endif //MY_BRAINF_COMPILER_INTERPRETER_H
