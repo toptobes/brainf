@@ -82,6 +82,9 @@
 		<Unit filename="C:/Users/gupta_919456/Documents/GitHub/brainf/interpreter.h">
 			<Option target="my_brainf_compiler"/>
 		</Unit>
+		<Unit filename="C:/Users/gupta_919456/Documents/GitHub/brainf/main.c">
+			<Option target="my_brainf_compiler"/>
+		</Unit>
 		<Unit filename="C:/Users/gupta_919456/Documents/GitHub/brainf/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
