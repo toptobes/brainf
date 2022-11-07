@@ -41,7 +41,7 @@
 					"fragment" : "-g"
 				},
 				{
-					"fragment" : "-std=gnu99"
+					"fragment" : "-std=gnu90"
 				}
 			],
 			"language" : "C",
@@ -51,7 +51,7 @@
 				[
 					1
 				],
-				"standard" : "99"
+				"standard" : "90"
 			},
 			"sourceIndexes" : 
 			[

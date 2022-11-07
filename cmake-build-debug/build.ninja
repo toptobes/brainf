@@ -51,13 +51,13 @@ build cmake_object_order_depends_target_my_brainf_compiler: phony || CMakeFiles/
 
 build CMakeFiles/my_brainf_compiler.dir/interpreter.c.obj: C_COMPILER__my_brainf_compiler_Debug C$:/Users/gupta_919456/CLionProjects/my-brainf-compiler/interpreter.c || cmake_object_order_depends_target_my_brainf_compiler
   DEP_FILE = CMakeFiles\my_brainf_compiler.dir\interpreter.c.obj.d
-  FLAGS = -g -std=gnu99
+  FLAGS = -g -std=gnu90
   OBJECT_DIR = CMakeFiles\my_brainf_compiler.dir
   OBJECT_FILE_DIR = CMakeFiles\my_brainf_compiler.dir
 
 build CMakeFiles/my_brainf_compiler.dir/main.c.obj: C_COMPILER__my_brainf_compiler_Debug C$:/Users/gupta_919456/CLionProjects/my-brainf-compiler/main.c || cmake_object_order_depends_target_my_brainf_compiler
   DEP_FILE = CMakeFiles\my_brainf_compiler.dir\main.c.obj.d
-  FLAGS = -g -std=gnu99
+  FLAGS = -g -std=gnu90
   OBJECT_DIR = CMakeFiles\my_brainf_compiler.dir
   OBJECT_FILE_DIR = CMakeFiles\my_brainf_compiler.dir
 

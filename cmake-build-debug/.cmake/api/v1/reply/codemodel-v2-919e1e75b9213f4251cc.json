@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "my_brainf_compiler::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-my_brainf_compiler-Debug-5962373eb9ee2181cfda.json",
+					"jsonFile" : "target-my_brainf_compiler-Debug-40f06a92e08b3812dccf.json",
 					"name" : "my_brainf_compiler",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/gupta_919456/Documents/GitHub/brainf/cmake-build-debug",
-		"source" : "C:/Users/gupta_919456/Documents/GitHub/brainf"
+		"build" : "C:/Users/gupta_919456/CLionProjects/my-brainf-compiler/cmake-build-debug",
+		"source" : "C:/Users/gupta_919456/CLionProjects/my-brainf-compiler"
 	},
 	"version" : 
 	{
