@@ -1,3 +1,0 @@
-C:/Users/gupta_919456/CLionProjects/my-brainf-compiler/cmake-build-debug/CMakeFiles/my_brainf_compiler.dir
-C:/Users/gupta_919456/CLionProjects/my-brainf-compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/gupta_919456/CLionProjects/my-brainf-compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir

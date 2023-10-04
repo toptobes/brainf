@@ -2,7 +2,7 @@
 
 int main()
 {
-    char *brainfuck1 = ">+[+[<]>>+<+]>.";
+    char *brainfuck1 = ">+[+[<]thisacomment>>+<+]>.";
     i(brainfuck1);
     reset();
 
