@@ -5,7 +5,7 @@
 #include <unistd.h>
 #include <string.h>
 
-int i(char*c);
+int i(char *c);
 void reset();
 
 #endif //MY_BRAINF_COMPILER_INTERPRETER_H
